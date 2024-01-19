@@ -6,3 +6,12 @@
 
 ### 사용한 tool
 - openai
+
+### Demo
+Link: [URL](https://huggingface.co/spaces/cheeeeese/deckhub_demo)
+
+- image
+![Alt text](/tmp/demo_photo.png)
+
+---
+본 제작물은 skt prompter day 참가 일환으로 제작된 POC 입니다.
